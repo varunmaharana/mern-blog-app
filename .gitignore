@@ -1,4 +1,3 @@
 node_modules
 api/uploads/*
-/api/config/config.env
 *.env
